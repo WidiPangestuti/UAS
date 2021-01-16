@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_next"
+        android:icon="@drawable/nextttttt"
+        android:title="Next" />
+    <item
+        android:id="@+id/navigation_previous"
+        android:icon="@drawable/match"
+        android:title="Previous" />
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/favw"
+        android:title="Favorite" />
+
+</menu>
